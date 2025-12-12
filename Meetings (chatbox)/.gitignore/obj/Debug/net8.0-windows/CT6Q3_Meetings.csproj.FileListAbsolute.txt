@@ -1,0 +1,34 @@
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\bin\Debug\net8.0-windows\CT6Q3_Meetings.exe
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\bin\Debug\net8.0-windows\CT6Q3_Meetings.deps.json
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\bin\Debug\net8.0-windows\CT6Q3_Meetings.runtimeconfig.json
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\bin\Debug\net8.0-windows\CT6Q3_Meetings.dll
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\bin\Debug\net8.0-windows\CT6Q3_Meetings.pdb
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CfrmClient.resources
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CfrmParticipant.resources
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.csproj.GenerateResource.cache
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.AssemblyInfoInputs.cache
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.AssemblyInfo.cs
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.csproj.CoreCompileInputs.cache
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.dll
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\refint\CT6Q3_Meetings.dll
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.pdb
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.genruntimeconfig.cache
+E:\CSIS2664\Class test 6\extracted\Blignaut (2079034130)\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\ref\CT6Q3_Meetings.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\bin\Debug\net8.0-windows\CT6Q3_Meetings.exe
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\bin\Debug\net8.0-windows\CT6Q3_Meetings.deps.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\bin\Debug\net8.0-windows\CT6Q3_Meetings.runtimeconfig.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\bin\Debug\net8.0-windows\CT6Q3_Meetings.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\bin\Debug\net8.0-windows\CT6Q3_Meetings.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CfrmParticipant.resources
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CfrmClient.resources
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.csproj.GenerateResource.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.AssemblyInfo.cs
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\refint\CT6Q3_Meetings.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\CT6Q3_Meetings.genruntimeconfig.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 6\Solutions\Solutions\CT6Q3_Meetings\obj\Debug\net8.0-windows\ref\CT6Q3_Meetings.dll

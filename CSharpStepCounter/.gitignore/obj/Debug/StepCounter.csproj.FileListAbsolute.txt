@@ -1,0 +1,21 @@
+T:\StepCounter\obj\Debug\StepCounter.csprojAssemblyReference.cache
+T:\StepCounter\obj\Debug\StepCounter.csproj.CoreCompileInputs.cache
+T:\StepCounter\bin\Debug\StepCounter.exe.config
+T:\StepCounter\bin\Debug\StepCounter.exe
+T:\StepCounter\bin\Debug\StepCounter.pdb
+T:\StepCounter\obj\Debug\StepCounter.exe
+T:\StepCounter\obj\Debug\StepCounter.pdb
+C:\Users\Student\Downloads\Mohlala (2025355740)\StepCounter\bin\Debug\StepCounter.exe.config
+C:\Users\Student\Downloads\Mohlala (2025355740)\StepCounter\bin\Debug\StepCounter.exe
+C:\Users\Student\Downloads\Mohlala (2025355740)\StepCounter\bin\Debug\StepCounter.pdb
+C:\Users\Student\Downloads\Mohlala (2025355740)\StepCounter\obj\Debug\StepCounter.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\Mohlala (2025355740)\StepCounter\obj\Debug\StepCounter.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\Mohlala (2025355740)\StepCounter\obj\Debug\StepCounter.exe
+C:\Users\Student\Downloads\Mohlala (2025355740)\StepCounter\obj\Debug\StepCounter.pdb
+E:\CSIS1614\PRACTICALS\Mohlala (2025355740)\CSharpStepCounter\bin\Debug\StepCounter.exe.config
+E:\CSIS1614\PRACTICALS\Mohlala (2025355740)\CSharpStepCounter\bin\Debug\StepCounter.exe
+E:\CSIS1614\PRACTICALS\Mohlala (2025355740)\CSharpStepCounter\bin\Debug\StepCounter.pdb
+E:\CSIS1614\PRACTICALS\Mohlala (2025355740)\CSharpStepCounter\obj\Debug\StepCounter.csproj.AssemblyReference.cache
+E:\CSIS1614\PRACTICALS\Mohlala (2025355740)\CSharpStepCounter\obj\Debug\StepCounter.csproj.CoreCompileInputs.cache
+E:\CSIS1614\PRACTICALS\Mohlala (2025355740)\CSharpStepCounter\obj\Debug\StepCounter.exe
+E:\CSIS1614\PRACTICALS\Mohlala (2025355740)\CSharpStepCounter\obj\Debug\StepCounter.pdb

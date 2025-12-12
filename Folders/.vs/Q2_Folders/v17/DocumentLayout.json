@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 4\\Solutions\\Folders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6705E6D-61C5-4E60-96DF-1DD05E5C99FC}|Q2_Folders.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 4\\solutions\\folders\\q2_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6705E6D-61C5-4E60-96DF-1DD05E5C99FC}|Q2_Folders.csproj|solutionrelative:q2_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6705E6D-61C5-4E60-96DF-1DD05E5C99FC}|Q2_Folders.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 4\\solutions\\folders\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6705E6D-61C5-4E60-96DF-1DD05E5C99FC}|Q2_Folders.csproj|solutionrelative:leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6705E6D-61C5-4E60-96DF-1DD05E5C99FC}|Q2_Folders.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 4\\solutions\\folders\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6705E6D-61C5-4E60-96DF-1DD05E5C99FC}|Q2_Folders.csproj|solutionrelative:icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6705E6D-61C5-4E60-96DF-1DD05E5C99FC}|Q2_Folders.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 4\\solutions\\folders\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6705E6D-61C5-4E60-96DF-1DD05E5C99FC}|Q2_Folders.csproj|solutionrelative:composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 4\\Solutions\\Folders\\IComponent.cs",
+              "RelativeDocumentMoniker": "IComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 4\\Solutions\\Folders\\IComponent.cs",
+              "RelativeToolTip": "IComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:11:46.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Leaf.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 4\\Solutions\\Folders\\Leaf.cs",
+              "RelativeDocumentMoniker": "Leaf.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 4\\Solutions\\Folders\\Leaf.cs",
+              "RelativeToolTip": "Leaf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:11:29.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Composite.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 4\\Solutions\\Folders\\Composite.cs",
+              "RelativeDocumentMoniker": "Composite.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 4\\Solutions\\Folders\\Composite.cs",
+              "RelativeToolTip": "Composite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:10:42.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q2_Client.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 4\\Solutions\\Folders\\Q2_Client.cs",
+              "RelativeDocumentMoniker": "Q2_Client.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 4\\Solutions\\Folders\\Q2_Client.cs",
+              "RelativeToolTip": "Q2_Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:08:43.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 644,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

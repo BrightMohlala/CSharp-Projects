@@ -1,0 +1,57 @@
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.CfrmMain.resources
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.csproj.GenerateResource.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.AssemblyInfoInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.AssemblyInfo.cs
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.csproj.CoreCompileInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.exe
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.deps.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.runtimeconfig.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\refint\SimpleCSEC.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.genruntimeconfig.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\ref\SimpleCSEC.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.Properties.Resources.resources
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.CdlgMessage.resources
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Algorithms, Lists, Stacks, Events)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.CdlgErrors.resources
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.exe
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.deps.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.runtimeconfig.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.CdlgErrors.resources
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.CdlgMessage.resources
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.CfrmMain.resources
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.Properties.Resources.resources
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.csproj.GenerateResource.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.AssemblyInfoInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.AssemblyInfo.cs
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.csproj.CoreCompileInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\refint\SimpleCSEC.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.genruntimeconfig.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\SimpleCSEC\obj\Debug\net8.0-windows\ref\SimpleCSEC.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.exe
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.deps.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.runtimeconfig.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\bin\Debug\net8.0-windows\SimpleCSEC.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.CdlgErrors.resources
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.CdlgMessage.resources
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.CfrmMain.resources
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.Properties.Resources.resources
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.csproj.GenerateResource.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.AssemblyInfoInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.AssemblyInfo.cs
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.csproj.CoreCompileInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\refint\SimpleCSEC.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\SimpleCSEC.genruntimeconfig.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q2 SimpleCSEC\obj\Debug\net8.0-windows\ref\SimpleCSEC.dll

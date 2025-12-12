@@ -1,0 +1,33 @@
+D:\Dropbox\CSIS\CSIS2664\2023\Test 1\Solutions\Q5\Bikes\bin\Debug\Bikes.exe.config
+D:\Dropbox\CSIS\CSIS2664\2023\Test 1\Solutions\Q5\Bikes\bin\Debug\Bikes.exe
+D:\Dropbox\CSIS\CSIS2664\2023\Test 1\Solutions\Q5\Bikes\bin\Debug\Bikes.pdb
+D:\Dropbox\CSIS\CSIS2664\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Q5 Bikes (Solution).csproj.AssemblyReference.cache
+D:\Dropbox\CSIS\CSIS2664\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Bikes.CfrmMain.resources
+D:\Dropbox\CSIS\CSIS2664\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Bikes.CdlgOutput.resources
+D:\Dropbox\CSIS\CSIS2664\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Bikes.Properties.Resources.resources
+D:\Dropbox\CSIS\CSIS2664\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Q5 Bikes (Solution).csproj.GenerateResource.cache
+D:\Dropbox\CSIS\CSIS2664\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Q5 Bikes (Solution).csproj.CoreCompileInputs.cache
+D:\Dropbox\CSIS\CSIS2664\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Bikes.exe
+D:\Dropbox\CSIS\CSIS2664\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Bikes.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2023\Test 1\Solutions\Q5\Bikes\bin\Debug\Bikes.exe.config
+D:\OneDrive\CSIS\CSIS2664 (Design)\2023\Test 1\Solutions\Q5\Bikes\bin\Debug\Bikes.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2023\Test 1\Solutions\Q5\Bikes\bin\Debug\Bikes.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Q5 Bikes (Solution).csproj.AssemblyReference.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Bikes.CfrmMain.resources
+D:\OneDrive\CSIS\CSIS2664 (Design)\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Bikes.CdlgOutput.resources
+D:\OneDrive\CSIS\CSIS2664 (Design)\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Bikes.Properties.Resources.resources
+D:\OneDrive\CSIS\CSIS2664 (Design)\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Q5 Bikes (Solution).csproj.GenerateResource.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Q5 Bikes (Solution).csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Bikes.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2023\Test 1\Solutions\Q5\Bikes\obj\Debug\Bikes.pdb
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q4_Bicycles\Bikes\obj\Debug\Q5 Bikes (Solution).csproj.AssemblyReference.cache
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q4_Bicycles\Bikes\obj\Debug\Bikes.CfrmMain.resources
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q4_Bicycles\Bikes\obj\Debug\Bikes.CdlgOutput.resources
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q4_Bicycles\Bikes\obj\Debug\Bikes.Properties.Resources.resources
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q4_Bicycles\Bikes\obj\Debug\Q5 Bikes (Solution).csproj.GenerateResource.cache
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q4_Bicycles\Bikes\obj\Debug\Q5 Bikes (Solution).csproj.CoreCompileInputs.cache
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q4_Bicycles\Bikes\obj\Debug\Bikes.exe
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q4_Bicycles\Bikes\obj\Debug\Bikes.pdb
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q4_Bicycles\Bikes\bin\Debug\Bikes.exe.config
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q4_Bicycles\Bikes\bin\Debug\Bikes.exe
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q4_Bicycles\Bikes\bin\Debug\Bikes.pdb

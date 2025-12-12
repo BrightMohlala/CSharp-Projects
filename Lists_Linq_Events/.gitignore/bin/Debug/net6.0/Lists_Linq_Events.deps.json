@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lists_Linq_Events/1.0.0": {
+        "runtime": {
+          "Lists_Linq_Events.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lists_Linq_Events/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

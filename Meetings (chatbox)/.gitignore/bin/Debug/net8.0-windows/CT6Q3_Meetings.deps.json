@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CT6Q3_Meetings/1.0.0": {
+        "runtime": {
+          "CT6Q3_Meetings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CT6Q3_Meetings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

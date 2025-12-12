@@ -1,0 +1,28 @@
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\bin\Debug\net8.0\CT8Q2_Strategy.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\bin\Debug\net8.0\CT8Q2_Strategy.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\bin\Debug\net8.0\CT8Q2_Strategy.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\bin\Debug\net8.0\CT8Q2_Strategy.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\bin\Debug\net8.0\CT8Q2_Strategy.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\obj\Debug\net8.0\refint\CT8Q2_Strategy.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 8 (Strategy, Template, Visitor)\Solutions\CT8Q2_Strategy\obj\Debug\net8.0\ref\CT8Q2_Strategy.dll
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\bin\Debug\net8.0\CT8Q2_Strategy.exe
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\bin\Debug\net8.0\CT8Q2_Strategy.deps.json
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\bin\Debug\net8.0\CT8Q2_Strategy.runtimeconfig.json
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\bin\Debug\net8.0\CT8Q2_Strategy.dll
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\bin\Debug\net8.0\CT8Q2_Strategy.pdb
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.AssemblyInfoInputs.cache
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.AssemblyInfo.cs
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.csproj.CoreCompileInputs.cache
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.dll
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\obj\Debug\net8.0\refint\CT8Q2_Strategy.dll
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.pdb
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\obj\Debug\net8.0\CT8Q2_Strategy.genruntimeconfig.cache
+E:\CSIS2664\Class test 8\extracted\Blignaut (2079034130)\CT8Q2_Strategy\obj\Debug\net8.0\ref\CT8Q2_Strategy.dll

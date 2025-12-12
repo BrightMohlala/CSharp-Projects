@@ -1,0 +1,48 @@
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.csproj.GenerateResource.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\obj\Debug\net8.0-windows\refint\CT5Q3_Lights.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\obj\Debug\net8.0-windows\ref\CT5Q3_Lights.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q3_Lights\obj\Debug\net8.0-windows\CfrmHouse.resources
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CfrmHouse.resources
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.csproj.GenerateResource.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\refint\CT5Q3_Lights.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\ref\CT5Q3_Lights.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.exe
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.deps.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.runtimeconfig.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\bin\Debug\net8.0-windows\CT5Q3_Lights.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CfrmHouse.resources
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.csproj.GenerateResource.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.AssemblyInfo.cs
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\refint\CT5Q3_Lights.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\CT5Q3_Lights.genruntimeconfig.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q4_Lights\obj\Debug\net8.0-windows\ref\CT5Q3_Lights.dll

@@ -1,0 +1,14 @@
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\bin\Debug\net8.0\CT5Q1_CoR_events.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\bin\Debug\net8.0\CT5Q1_CoR_events.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\bin\Debug\net8.0\CT5Q1_CoR_events.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\bin\Debug\net8.0\CT5Q1_CoR_events.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\bin\Debug\net8.0\CT5Q1_CoR_events.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\obj\Debug\net8.0\CT5Q1_CoR_events.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\obj\Debug\net8.0\CT5Q1_CoR_events.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\obj\Debug\net8.0\CT5Q1_CoR_events.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\obj\Debug\net8.0\CT5Q1_CoR_events.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\obj\Debug\net8.0\CT5Q1_CoR_events.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\obj\Debug\net8.0\refint\CT5Q1_CoR_events.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\obj\Debug\net8.0\CT5Q1_CoR_events.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\obj\Debug\net8.0\CT5Q1_CoR_events.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR (with events)\obj\Debug\net8.0\ref\CT5Q1_CoR_events.dll

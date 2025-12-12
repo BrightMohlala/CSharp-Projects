@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CT6Q3_Meetings", "CT6Q3_Meetings.csproj", "{AE03F576-0E3A-45CA-BD6C-F397F272D715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE03F576-0E3A-45CA-BD6C-F397F272D715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE03F576-0E3A-45CA-BD6C-F397F272D715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE03F576-0E3A-45CA-BD6C-F397F272D715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE03F576-0E3A-45CA-BD6C-F397F272D715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

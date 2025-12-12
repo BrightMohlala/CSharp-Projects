@@ -1,0 +1,17 @@
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\bin\Debug\net8.0-windows\CT6Q2_Meetings.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\bin\Debug\net8.0-windows\CT6Q2_Meetings.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\bin\Debug\net8.0-windows\CT6Q2_Meetings.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\bin\Debug\net8.0-windows\CT6Q2_Meetings.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\bin\Debug\net8.0-windows\CT6Q2_Meetings.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\obj\Debug\net8.0-windows\CT6Q2_Meetings.csproj.GenerateResource.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\obj\Debug\net8.0-windows\CT6Q2_Meetings.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\obj\Debug\net8.0-windows\CT6Q2_Meetings.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\obj\Debug\net8.0-windows\CT6Q2_Meetings.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\obj\Debug\net8.0-windows\CT6Q2_Meetings.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\obj\Debug\net8.0-windows\CT6Q2_Meetings.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\obj\Debug\net8.0-windows\refint\CT6Q2_Meetings.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\obj\Debug\net8.0-windows\CT6Q2_Meetings.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\obj\Debug\net8.0-windows\CT6Q2_Meetings.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\obj\Debug\net8.0-windows\ref\CT6Q2_Meetings.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\obj\Debug\net8.0-windows\CfrmParticipant.resources
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q2_Meetings\obj\Debug\net8.0-windows\CfrmClient.resources

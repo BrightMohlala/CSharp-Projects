@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 5\\solutions\\ct5q4_lights\\receiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|solutionrelative:receiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 5\\solutions\\ct5q4_lights\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 5\\solutions\\ct5q4_lights\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|solutionrelative:invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 5\\solutions\\ct5q4_lights\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|solutionrelative:icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 5\\solutions\\ct5q4_lights\\concretecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|solutionrelative:concretecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 5\\solutions\\ct5q4_lights\\cfrmhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|solutionrelative:cfrmhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\cfrmhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBCBE54A-B536-4C76-9C35-EBB4D666BEFA}|CT5Q3_Lights.csproj|solutionrelative:cfrmhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:29:50.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConcreteCommands.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\ConcreteCommands.cs",
+              "RelativeDocumentMoniker": "ConcreteCommands.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\ConcreteCommands.cs",
+              "RelativeToolTip": "ConcreteCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:33:58.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Invoker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\Invoker.cs",
+              "RelativeDocumentMoniker": "Invoker.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\Invoker.cs",
+              "RelativeToolTip": "Invoker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:32:34.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CfrmHouse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\CfrmHouse.cs",
+              "RelativeDocumentMoniker": "CfrmHouse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\CfrmHouse.cs",
+              "RelativeToolTip": "CfrmHouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:27:00.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\ICommand.cs",
+              "RelativeDocumentMoniker": "ICommand.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\ICommand.cs",
+              "RelativeToolTip": "ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:44:21.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Receiver.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\Receiver.cs",
+              "RelativeDocumentMoniker": "Receiver.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\Receiver.cs*",
+              "RelativeToolTip": "Receiver.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:10:11.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CfrmHouse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 5\\Solutions\\CT5Q4_Lights\\CfrmHouse.cs",
+              "RelativeDocumentMoniker": "CfrmHouse.cs",
+              "ToolTip": "D:\\OneDrive\\CSIS\\CSIS2664 (Design)\\2025\\Class test 5 (CoR, Command)\\Solutions\\CT5Q4_Lights\\CfrmHouse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:09:19.908Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 644,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

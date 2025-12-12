@@ -1,0 +1,14 @@
+T:\TicTacToe Game\bin\Debug\TicTacToe Game.exe.config
+T:\TicTacToe Game\bin\Debug\TicTacToe Game.exe
+T:\TicTacToe Game\bin\Debug\TicTacToe Game.pdb
+T:\TicTacToe Game\obj\Debug\TicTacToe Game.csprojAssemblyReference.cache
+T:\TicTacToe Game\obj\Debug\TicTacToe Game.csproj.CoreCompileInputs.cache
+T:\TicTacToe Game\obj\Debug\TicTacToe Game.exe
+T:\TicTacToe Game\obj\Debug\TicTacToe Game.pdb
+E:\CSIS1624\PRACTICALS\TicTacToe\Mohlala (2025355740)\TicTacToe Game\bin\Debug\TicTacToe Game.exe.config
+E:\CSIS1624\PRACTICALS\TicTacToe\Mohlala (2025355740)\TicTacToe Game\bin\Debug\TicTacToe Game.exe
+E:\CSIS1624\PRACTICALS\TicTacToe\Mohlala (2025355740)\TicTacToe Game\bin\Debug\TicTacToe Game.pdb
+E:\CSIS1624\PRACTICALS\TicTacToe\Mohlala (2025355740)\TicTacToe Game\obj\Debug\TicTacToe Game.csproj.AssemblyReference.cache
+E:\CSIS1624\PRACTICALS\TicTacToe\Mohlala (2025355740)\TicTacToe Game\obj\Debug\TicTacToe Game.csproj.CoreCompileInputs.cache
+E:\CSIS1624\PRACTICALS\TicTacToe\Mohlala (2025355740)\TicTacToe Game\obj\Debug\TicTacToe Game.exe
+E:\CSIS1624\PRACTICALS\TicTacToe\Mohlala (2025355740)\TicTacToe Game\obj\Debug\TicTacToe Game.pdb

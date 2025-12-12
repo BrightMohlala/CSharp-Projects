@@ -1,0 +1,7 @@
+G:\Other computers\Desktop\Persoonlik\Universiteit\2024\RWI Departement\CSIS1624\Practical 6\StudentTracker\bin\Debug\StudentTracker.exe.config
+G:\Other computers\Desktop\Persoonlik\Universiteit\2024\RWI Departement\CSIS1624\Practical 6\StudentTracker\bin\Debug\StudentTracker.exe
+G:\Other computers\Desktop\Persoonlik\Universiteit\2024\RWI Departement\CSIS1624\Practical 6\StudentTracker\bin\Debug\StudentTracker.pdb
+G:\Other computers\Desktop\Persoonlik\Universiteit\2024\RWI Departement\CSIS1624\Practical 6\StudentTracker\obj\Debug\StudentTracker.csproj.AssemblyReference.cache
+G:\Other computers\Desktop\Persoonlik\Universiteit\2024\RWI Departement\CSIS1624\Practical 6\StudentTracker\obj\Debug\StudentTracker.csproj.CoreCompileInputs.cache
+G:\Other computers\Desktop\Persoonlik\Universiteit\2024\RWI Departement\CSIS1624\Practical 6\StudentTracker\obj\Debug\StudentTracker.exe
+G:\Other computers\Desktop\Persoonlik\Universiteit\2024\RWI Departement\CSIS1624\Practical 6\StudentTracker\obj\Debug\StudentTracker.pdb

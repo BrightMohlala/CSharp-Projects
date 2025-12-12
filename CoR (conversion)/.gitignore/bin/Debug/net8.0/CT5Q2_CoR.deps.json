@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CT5Q2_CoR/1.0.0": {
+        "runtime": {
+          "CT5Q2_CoR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CT5Q2_CoR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

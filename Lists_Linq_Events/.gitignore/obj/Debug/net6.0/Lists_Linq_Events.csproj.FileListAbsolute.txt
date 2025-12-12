@@ -1,0 +1,14 @@
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\obj\Debug\net6.0\Lists_Linq_Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\obj\Debug\net6.0\Lists_Linq_Events.AssemblyInfoInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\obj\Debug\net6.0\Lists_Linq_Events.AssemblyInfo.cs
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\obj\Debug\net6.0\Lists_Linq_Events.csproj.CoreCompileInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\bin\Debug\net6.0\Lists_Linq_Events.exe
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\bin\Debug\net6.0\Lists_Linq_Events.deps.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\bin\Debug\net6.0\Lists_Linq_Events.runtimeconfig.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\bin\Debug\net6.0\Lists_Linq_Events.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\bin\Debug\net6.0\Lists_Linq_Events.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\obj\Debug\net6.0\Lists_Linq_Events.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\obj\Debug\net6.0\refint\Lists_Linq_Events.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\obj\Debug\net6.0\Lists_Linq_Events.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\obj\Debug\net6.0\Lists_Linq_Events.genruntimeconfig.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Assignment 3 (Lists, Stacks)\Lists_Linq_Events\obj\Debug\net6.0\ref\Lists_Linq_Events.dll

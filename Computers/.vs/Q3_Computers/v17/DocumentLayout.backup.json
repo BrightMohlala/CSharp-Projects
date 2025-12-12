@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q3_Computers.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 2\\solutions\\solutions\\q3_computers\\2_concretebuilders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q3_Computers.csproj|solutionrelative:2_concretebuilders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q3_Computers.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 2\\solutions\\solutions\\q3_computers\\cfrmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q3_Computers.csproj|solutionrelative:cfrmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q2_Computers.csproj|C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\cdlgmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q2_Computers.csproj|solutionrelative:cdlgmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q2_Computers.csproj|C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\cfrmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q2_Computers.csproj|solutionrelative:cfrmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q3_Computers.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 2\\solutions\\solutions\\q3_computers\\cdlgmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q3_Computers.csproj|solutionrelative:cdlgmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q3_Computers.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 2\\solutions\\solutions\\q3_computers\\cdlgmessage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q3_Computers.csproj|solutionrelative:cdlgmessage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q3_Computers.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 2\\solutions\\solutions\\q3_computers\\cfrmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q3_Computers.csproj|solutionrelative:cfrmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q3_Computers.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 2\\solutions\\solutions\\q3_computers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDCF9A2-3E65-4D30-9DB4-7807E439C9C7}|Q3_Computers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2_ConcreteBuilders.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\2_ConcreteBuilders.cs",
+              "RelativeDocumentMoniker": "2_ConcreteBuilders.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\2_ConcreteBuilders.cs",
+              "RelativeToolTip": "2_ConcreteBuilders.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:17:24.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CdlgMessage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\CdlgMessage.cs",
+              "RelativeDocumentMoniker": "CdlgMessage.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\CdlgMessage.cs",
+              "RelativeToolTip": "CdlgMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:16:28.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CdlgMessage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\CdlgMessage.Designer.cs",
+              "RelativeDocumentMoniker": "CdlgMessage.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\CdlgMessage.Designer.cs",
+              "RelativeToolTip": "CdlgMessage.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:16:12.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CdlgMessage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\CdlgMessage.cs",
+              "RelativeDocumentMoniker": "CdlgMessage.cs",
+              "ToolTip": "D:\\OneDrive\\CSIS\\CSIS2664 (Design)\\2025\\Class test 2\\Solutions\\Q2_Computers\\CdlgMessage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:15:53.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CfrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\CfrmMain.cs",
+              "RelativeDocumentMoniker": "CfrmMain.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\CfrmMain.cs",
+              "RelativeToolTip": "CfrmMain.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:15:25.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CfrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\CfrmMain.cs",
+              "RelativeDocumentMoniker": "CfrmMain.cs",
+              "ToolTip": "D:\\OneDrive\\CSIS\\CSIS2664 (Design)\\2025\\Class test 2\\Solutions\\Q2_Computers\\CfrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:15:17.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CfrmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\CfrmMain.Designer.cs",
+              "RelativeDocumentMoniker": "CfrmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\CfrmMain.Designer.cs",
+              "RelativeToolTip": "CfrmMain.Designer.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:14:33.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q3_Computers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:13:59.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

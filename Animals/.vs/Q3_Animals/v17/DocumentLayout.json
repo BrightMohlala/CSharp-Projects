@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 3\\Blignaut (2079034130)\\Animals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5344A04D-7F87-4E5E-909B-42228F1D36D8}|Q3_Animals.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 3\\blignaut (2079034130)\\animals\\implementations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5344A04D-7F87-4E5E-909B-42228F1D36D8}|Q3_Animals.csproj|solutionrelative:implementations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5344A04D-7F87-4E5E-909B-42228F1D36D8}|Q3_Animals.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 3\\blignaut (2079034130)\\animals\\iimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5344A04D-7F87-4E5E-909B-42228F1D36D8}|Q3_Animals.csproj|solutionrelative:iimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5344A04D-7F87-4E5E-909B-42228F1D36D8}|Q3_Animals.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 3\\blignaut (2079034130)\\animals\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5344A04D-7F87-4E5E-909B-42228F1D36D8}|Q3_Animals.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5344A04D-7F87-4E5E-909B-42228F1D36D8}|Q3_Animals.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 3\\blignaut (2079034130)\\animals\\abstractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5344A04D-7F87-4E5E-909B-42228F1D36D8}|Q3_Animals.csproj|solutionrelative:abstractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5344A04D-7F87-4E5E-909B-42228F1D36D8}|Q3_Animals.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 3\\blignaut (2079034130)\\animals\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5344A04D-7F87-4E5E-909B-42228F1D36D8}|Q3_Animals.csproj|solutionrelative:abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Implementations.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 3\\Blignaut (2079034130)\\Animals\\Implementations.cs",
+              "RelativeDocumentMoniker": "Implementations.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 3\\Blignaut (2079034130)\\Animals\\Implementations.cs",
+              "RelativeToolTip": "Implementations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:35:16.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 3\\Blignaut (2079034130)\\Animals\\IImplementation.cs",
+              "RelativeDocumentMoniker": "IImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 3\\Blignaut (2079034130)\\Animals\\IImplementation.cs",
+              "RelativeToolTip": "IImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:34:44.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Abstractions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 3\\Blignaut (2079034130)\\Animals\\Abstractions.cs",
+              "RelativeDocumentMoniker": "Abstractions.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 3\\Blignaut (2079034130)\\Animals\\Abstractions.cs",
+              "RelativeToolTip": "Abstractions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:33:12.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 3\\Blignaut (2079034130)\\Animals\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 3\\Blignaut (2079034130)\\Animals\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:32:26.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Abstraction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 3\\Blignaut (2079034130)\\Animals\\Abstraction.cs",
+              "RelativeDocumentMoniker": "Abstraction.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 3\\Blignaut (2079034130)\\Animals\\Abstraction.cs",
+              "RelativeToolTip": "Abstraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T07:36:09.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 644,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

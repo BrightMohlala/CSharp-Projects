@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q1_Cars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3370F5B-C5D6-4C62-8AD5-99ED6F2E0F90}|Q1_Solution.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 2\\solutions\\solutions\\q1_cars\\2_concrete_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3370F5B-C5D6-4C62-8AD5-99ED6F2E0F90}|Q1_Solution.csproj|solutionrelative:2_concrete_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3370F5B-C5D6-4C62-8AD5-99ED6F2E0F90}|Q1_Solution.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 2\\solutions\\solutions\\q1_cars\\1_product_abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3370F5B-C5D6-4C62-8AD5-99ED6F2E0F90}|Q1_Solution.csproj|solutionrelative:1_product_abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3370F5B-C5D6-4C62-8AD5-99ED6F2E0F90}|Q1_Solution.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 2\\solutions\\solutions\\q1_cars\\3_afactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3370F5B-C5D6-4C62-8AD5-99ED6F2E0F90}|Q1_Solution.csproj|solutionrelative:3_afactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3370F5B-C5D6-4C62-8AD5-99ED6F2E0F90}|Q1_Solution.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 2\\solutions\\solutions\\q1_cars\\4_concretefactories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3370F5B-C5D6-4C62-8AD5-99ED6F2E0F90}|Q1_Solution.csproj|solutionrelative:4_concretefactories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3370F5B-C5D6-4C62-8AD5-99ED6F2E0F90}|Q1_Solution.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 2\\solutions\\solutions\\q1_cars\\5_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3370F5B-C5D6-4C62-8AD5-99ED6F2E0F90}|Q1_Solution.csproj|solutionrelative:5_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2_Concrete_Products.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q1_Cars\\2_Concrete_Products.cs",
+              "RelativeDocumentMoniker": "2_Concrete_Products.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q1_Cars\\2_Concrete_Products.cs",
+              "RelativeToolTip": "2_Concrete_Products.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:55:20.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4_ConcreteFactories.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q1_Cars\\4_ConcreteFactories.cs",
+              "RelativeDocumentMoniker": "4_ConcreteFactories.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q1_Cars\\4_ConcreteFactories.cs",
+              "RelativeToolTip": "4_ConcreteFactories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:54:56.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3_AFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q1_Cars\\3_AFactory.cs",
+              "RelativeDocumentMoniker": "3_AFactory.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q1_Cars\\3_AFactory.cs",
+              "RelativeToolTip": "3_AFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:55:26.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1_Product_Abstraction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q1_Cars\\1_Product_Abstraction.cs",
+              "RelativeDocumentMoniker": "1_Product_Abstraction.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q1_Cars\\1_Product_Abstraction.cs",
+              "RelativeToolTip": "1_Product_Abstraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:55:14.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "5_Client.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q1_Cars\\5_Client.cs",
+              "RelativeDocumentMoniker": "5_Client.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 2\\Solutions\\Solutions\\Q1_Cars\\5_Client.cs",
+              "RelativeToolTip": "5_Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T09:39:09.571Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 644,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

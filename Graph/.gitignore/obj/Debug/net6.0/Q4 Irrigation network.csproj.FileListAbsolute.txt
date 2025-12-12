@@ -1,0 +1,14 @@
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\bin\Debug\net6.0\Q4 Irrigation network.exe
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\bin\Debug\net6.0\Q4 Irrigation network.deps.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\bin\Debug\net6.0\Q4 Irrigation network.runtimeconfig.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\bin\Debug\net6.0\Q4 Irrigation network.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\bin\Debug\net6.0\Q4 Irrigation network.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\obj\Debug\net6.0\Q4 Irrigation network.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\obj\Debug\net6.0\Q4 Irrigation network.AssemblyInfoInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\obj\Debug\net6.0\Q4 Irrigation network.AssemblyInfo.cs
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\obj\Debug\net6.0\Q4 Irrigation network.csproj.CoreCompileInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\obj\Debug\net6.0\Q4 Irrigation network.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\obj\Debug\net6.0\refint\Q4 Irrigation network.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\obj\Debug\net6.0\Q4 Irrigation network.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\obj\Debug\net6.0\Q4 Irrigation network.genruntimeconfig.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Test 2\Q4 Irrigation network\obj\Debug\net6.0\ref\Q4 Irrigation network.dll

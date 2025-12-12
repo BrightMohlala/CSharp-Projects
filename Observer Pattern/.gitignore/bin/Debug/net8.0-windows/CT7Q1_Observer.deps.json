@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CT7Q1_Observer/1.0.0": {
+        "runtime": {
+          "CT7Q1_Observer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CT7Q1_Observer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

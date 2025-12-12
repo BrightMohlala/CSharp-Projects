@@ -1,0 +1,14 @@
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\obj\Debug\net8.0\CT6Q1_Iterator_b.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\obj\Debug\net8.0\CT6Q1_Iterator_b.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\obj\Debug\net8.0\CT6Q1_Iterator_b.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\obj\Debug\net8.0\CT6Q1_Iterator_b.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\bin\Debug\net8.0\CT6Q1_Iterator_b.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\bin\Debug\net8.0\CT6Q1_Iterator_b.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\bin\Debug\net8.0\CT6Q1_Iterator_b.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\bin\Debug\net8.0\CT6Q1_Iterator_b.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\bin\Debug\net8.0\CT6Q1_Iterator_b.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\obj\Debug\net8.0\CT6Q1_Iterator_b.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\obj\Debug\net8.0\refint\CT6Q1_Iterator_b.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\obj\Debug\net8.0\CT6Q1_Iterator_b.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\obj\Debug\net8.0\CT6Q1_Iterator_b.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 6 (Iterator, Mediator, Memento)\Solutions\CT6Q1_Iterator_b\obj\Debug\net8.0\ref\CT6Q1_Iterator_b.dll

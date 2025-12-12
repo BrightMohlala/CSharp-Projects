@@ -1,0 +1,7 @@
+D:\Dropbox\CSIS\CSIS2664\2023\Projects\Project 2 (Jobs - Factory method)\Jobs\Jobs\bin\Debug\Jobs.exe.config
+D:\Dropbox\CSIS\CSIS2664\2023\Projects\Project 2 (Jobs - Factory method)\Jobs\Jobs\bin\Debug\Jobs.exe
+D:\Dropbox\CSIS\CSIS2664\2023\Projects\Project 2 (Jobs - Factory method)\Jobs\Jobs\bin\Debug\Jobs.pdb
+D:\Dropbox\CSIS\CSIS2664\2023\Projects\Project 2 (Jobs - Factory method)\Jobs\Jobs\obj\Debug\Jobs.csproj.AssemblyReference.cache
+D:\Dropbox\CSIS\CSIS2664\2023\Projects\Project 2 (Jobs - Factory method)\Jobs\Jobs\obj\Debug\Jobs.csproj.CoreCompileInputs.cache
+D:\Dropbox\CSIS\CSIS2664\2023\Projects\Project 2 (Jobs - Factory method)\Jobs\Jobs\obj\Debug\Jobs.exe
+D:\Dropbox\CSIS\CSIS2664\2023\Projects\Project 2 (Jobs - Factory method)\Jobs\Jobs\obj\Debug\Jobs.pdb

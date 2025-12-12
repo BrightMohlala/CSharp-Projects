@@ -1,0 +1,42 @@
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).AssemblyInfoInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).AssemblyInfo.cs
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).csproj.CoreCompileInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).exe
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).deps.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).runtimeconfig.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\refint\Q1 (Solution).dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).genruntimeconfig.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\ref\Q1 (Solution).dll
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).exe
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).deps.json
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).dll
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).pdb
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).dll
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\refint\Q1 (Solution).dll
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).pdb
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\ref\Q1 (Solution).dll
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).exe
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).deps.json
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).runtimeconfig.json
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).dll
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\bin\Debug\net6.0\Q1 (Solution).pdb
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).AssemblyInfo.cs
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).dll
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\refint\Q1 (Solution).dll
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).pdb
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\Q1 (Solution).genruntimeconfig.cache
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 3\Solutions\Q1 Lists_Linq_Events\obj\Debug\net6.0\ref\Q1 (Solution).dll

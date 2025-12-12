@@ -1,0 +1,42 @@
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\refint\Q3_PersonDOB.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\ref\Q3_PersonDOB.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\obj\Debug\net8.0\refint\Q3_PersonDOB.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q3_PersonDOB\obj\Debug\net8.0\ref\Q3_PersonDOB.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.exe
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.deps.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.runtimeconfig.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\bin\Debug\net8.0\Q3_PersonDOB.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.AssemblyInfo.cs
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\refint\Q3_PersonDOB.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\Q3_PersonDOB.genruntimeconfig.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q3_PersonDOB\obj\Debug\net8.0\ref\Q3_PersonDOB.dll

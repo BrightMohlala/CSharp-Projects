@@ -1,0 +1,28 @@
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\obj\Debug\net8.0\Q1_Solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\obj\Debug\net8.0\Q1_Solution.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\obj\Debug\net8.0\Q1_Solution.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\obj\Debug\net8.0\Q1_Solution.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\bin\Debug\net8.0\Q1_Solution.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\bin\Debug\net8.0\Q1_Solution.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\bin\Debug\net8.0\Q1_Solution.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\bin\Debug\net8.0\Q1_Solution.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\bin\Debug\net8.0\Q1_Solution.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\obj\Debug\net8.0\Q1_Solution.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\obj\Debug\net8.0\refint\Q1_Solution.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\obj\Debug\net8.0\Q1_Solution.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\obj\Debug\net8.0\Q1_Solution.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 2 (FM & Builder)\Solutions\Q1_Cars\obj\Debug\net8.0\ref\Q1_Solution.dll
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\bin\Debug\net8.0\Q1_Solution.exe
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\bin\Debug\net8.0\Q1_Solution.deps.json
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\bin\Debug\net8.0\Q1_Solution.runtimeconfig.json
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\bin\Debug\net8.0\Q1_Solution.dll
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\bin\Debug\net8.0\Q1_Solution.pdb
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\obj\Debug\net8.0\Q1_Solution.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\obj\Debug\net8.0\Q1_Solution.AssemblyInfoInputs.cache
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\obj\Debug\net8.0\Q1_Solution.AssemblyInfo.cs
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\obj\Debug\net8.0\Q1_Solution.csproj.CoreCompileInputs.cache
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\obj\Debug\net8.0\Q1_Solution.dll
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\obj\Debug\net8.0\refint\Q1_Solution.dll
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\obj\Debug\net8.0\Q1_Solution.pdb
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\obj\Debug\net8.0\Q1_Solution.genruntimeconfig.cache
+E:\CSIS2664\Class test 2\Extracted\Blignaut (2079034130)\Q1_Cars\obj\Debug\net8.0\ref\Q1_Solution.dll

@@ -1,0 +1,42 @@
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\bin\Debug\net8.0\AnswersQ1.exe
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\bin\Debug\net8.0\AnswersQ1.deps.json
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\bin\Debug\net8.0\AnswersQ1.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\bin\Debug\net8.0\AnswersQ1.dll
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\bin\Debug\net8.0\AnswersQ1.pdb
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\obj\Debug\net8.0\AnswersQ1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\obj\Debug\net8.0\AnswersQ1.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\obj\Debug\net8.0\AnswersQ1.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\obj\Debug\net8.0\AnswersQ1.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\obj\Debug\net8.0\AnswersQ1.dll
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\obj\Debug\net8.0\refint\AnswersQ1.dll
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\obj\Debug\net8.0\AnswersQ1.pdb
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\obj\Debug\net8.0\AnswersQ1.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 5\AnswersQ1\obj\Debug\net8.0\ref\AnswersQ1.dll
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\bin\Debug\net8.0\AnswersQ1.exe
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\bin\Debug\net8.0\AnswersQ1.deps.json
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\bin\Debug\net8.0\AnswersQ1.runtimeconfig.json
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\bin\Debug\net8.0\AnswersQ1.dll
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\bin\Debug\net8.0\AnswersQ1.pdb
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\obj\Debug\net8.0\AnswersQ1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\obj\Debug\net8.0\AnswersQ1.AssemblyInfoInputs.cache
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\obj\Debug\net8.0\AnswersQ1.AssemblyInfo.cs
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\obj\Debug\net8.0\AnswersQ1.csproj.CoreCompileInputs.cache
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\obj\Debug\net8.0\AnswersQ1.dll
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\obj\Debug\net8.0\refint\AnswersQ1.dll
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\obj\Debug\net8.0\AnswersQ1.pdb
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\obj\Debug\net8.0\AnswersQ1.genruntimeconfig.cache
+E:\CSIS2614\Class test 5\Extracted\Blignaut (2079034130)\AnswersQ1\obj\Debug\net8.0\ref\AnswersQ1.dll
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\bin\Debug\net8.0\AnswersQ1.exe
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\bin\Debug\net8.0\AnswersQ1.deps.json
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\bin\Debug\net8.0\AnswersQ1.runtimeconfig.json
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\bin\Debug\net8.0\AnswersQ1.dll
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\bin\Debug\net8.0\AnswersQ1.pdb
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\obj\Debug\net8.0\AnswersQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\obj\Debug\net8.0\AnswersQ1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\obj\Debug\net8.0\AnswersQ1.AssemblyInfo.cs
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\obj\Debug\net8.0\AnswersQ1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\obj\Debug\net8.0\AnswersQ1.dll
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\obj\Debug\net8.0\refint\AnswersQ1.dll
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\obj\Debug\net8.0\AnswersQ1.pdb
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\obj\Debug\net8.0\AnswersQ1.genruntimeconfig.cache
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 5\Solution\AnswersQ1\obj\Debug\net8.0\ref\AnswersQ1.dll

@@ -1,0 +1,28 @@
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\bin\Debug\net6.0\Solution CT4.exe
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\bin\Debug\net6.0\Solution CT4.deps.json
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\bin\Debug\net6.0\Solution CT4.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\bin\Debug\net6.0\Solution CT4.dll
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\bin\Debug\net6.0\Solution CT4.pdb
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\obj\Debug\net6.0\Solution CT4.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\obj\Debug\net6.0\Solution CT4.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\obj\Debug\net6.0\Solution CT4.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\obj\Debug\net6.0\Solution CT4.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\obj\Debug\net6.0\Solution CT4.dll
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\obj\Debug\net6.0\refint\Solution CT4.dll
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\obj\Debug\net6.0\Solution CT4.pdb
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\obj\Debug\net6.0\Solution CT4.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2614 (DS)\2025\Class test 4\Solution\obj\Debug\net6.0\ref\Solution CT4.dll
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\bin\Debug\net6.0\Solution CT4.exe
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\bin\Debug\net6.0\Solution CT4.deps.json
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\bin\Debug\net6.0\Solution CT4.runtimeconfig.json
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\bin\Debug\net6.0\Solution CT4.dll
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\bin\Debug\net6.0\Solution CT4.pdb
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\Solution CT4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\Solution CT4.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\Solution CT4.AssemblyInfo.cs
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\Solution CT4.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\Solution CT4.dll
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\refint\Solution CT4.dll
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\Solution CT4.pdb
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\Solution CT4.genruntimeconfig.cache
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\ref\Solution CT4.dll

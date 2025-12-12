@@ -1,0 +1,42 @@
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\bin\Debug\net6.0\Prac1.exe
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\bin\Debug\net6.0\Prac1.deps.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\bin\Debug\net6.0\Prac1.runtimeconfig.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\bin\Debug\net6.0\Prac1.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\bin\Debug\net6.0\Prac1.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\obj\Debug\net6.0\Prac1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\obj\Debug\net6.0\Prac1.AssemblyInfoInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\obj\Debug\net6.0\Prac1.AssemblyInfo.cs
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\obj\Debug\net6.0\Prac1.csproj.CoreCompileInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\obj\Debug\net6.0\Prac1.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\obj\Debug\net6.0\refint\Prac1.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\obj\Debug\net6.0\Prac1.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\obj\Debug\net6.0\Prac1.genruntimeconfig.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Practical 1\Prac1\obj\Debug\net6.0\ref\Prac1.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\bin\Debug\net6.0\Prac1.exe
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\bin\Debug\net6.0\Prac1.deps.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\bin\Debug\net6.0\Prac1.runtimeconfig.json
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\bin\Debug\net6.0\Prac1.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\bin\Debug\net6.0\Prac1.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\obj\Debug\net6.0\Prac1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\obj\Debug\net6.0\Prac1.AssemblyInfoInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\obj\Debug\net6.0\Prac1.AssemblyInfo.cs
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\obj\Debug\net6.0\Prac1.csproj.CoreCompileInputs.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\obj\Debug\net6.0\Prac1.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\obj\Debug\net6.0\refint\Prac1.dll
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\obj\Debug\net6.0\Prac1.pdb
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\obj\Debug\net6.0\Prac1.genruntimeconfig.cache
+D:\Dropbox\CSIS\CSIS2614 (DS)\2025\Class test 1\Solution\obj\Debug\net6.0\ref\Prac1.dll
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\bin\Debug\net6.0\Prac1.exe
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\bin\Debug\net6.0\Prac1.deps.json
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\bin\Debug\net6.0\Prac1.runtimeconfig.json
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\bin\Debug\net6.0\Prac1.dll
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\bin\Debug\net6.0\Prac1.pdb
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\obj\Debug\net6.0\Prac1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\obj\Debug\net6.0\Prac1.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\obj\Debug\net6.0\Prac1.AssemblyInfo.cs
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\obj\Debug\net6.0\Prac1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\obj\Debug\net6.0\Prac1.dll
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\obj\Debug\net6.0\refint\Prac1.dll
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\obj\Debug\net6.0\Prac1.pdb
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\obj\Debug\net6.0\Prac1.genruntimeconfig.cache
+C:\Users\User\Documents\CSIS2614\Class Tests 2025\Class Test 1\Solution\obj\Debug\net6.0\ref\Prac1.dll

@@ -1,0 +1,14 @@
+C:\Users\AGNES\Documents\CSIS1614\MyPractical 7\bin\Debug\MyPractical 7.exe.config
+C:\Users\AGNES\Documents\CSIS1614\MyPractical 7\bin\Debug\MyPractical 7.exe
+C:\Users\AGNES\Documents\CSIS1614\MyPractical 7\bin\Debug\MyPractical 7.pdb
+C:\Users\AGNES\Documents\CSIS1614\MyPractical 7\obj\Debug\MyPractical 7.csproj.AssemblyReference.cache
+C:\Users\AGNES\Documents\CSIS1614\MyPractical 7\obj\Debug\MyPractical 7.csproj.CoreCompileInputs.cache
+C:\Users\AGNES\Documents\CSIS1614\MyPractical 7\obj\Debug\MyPractical 7.exe
+C:\Users\AGNES\Documents\CSIS1614\MyPractical 7\obj\Debug\MyPractical 7.pdb
+E:\CSIS1614\PRACTICALS\MyPractical 7\bin\Debug\MyPractical 7.exe.config
+E:\CSIS1614\PRACTICALS\MyPractical 7\bin\Debug\MyPractical 7.exe
+E:\CSIS1614\PRACTICALS\MyPractical 7\bin\Debug\MyPractical 7.pdb
+E:\CSIS1614\PRACTICALS\MyPractical 7\obj\Debug\MyPractical 7.csproj.AssemblyReference.cache
+E:\CSIS1614\PRACTICALS\MyPractical 7\obj\Debug\MyPractical 7.csproj.CoreCompileInputs.cache
+E:\CSIS1614\PRACTICALS\MyPractical 7\obj\Debug\MyPractical 7.exe
+E:\CSIS1614\PRACTICALS\MyPractical 7\obj\Debug\MyPractical 7.pdb

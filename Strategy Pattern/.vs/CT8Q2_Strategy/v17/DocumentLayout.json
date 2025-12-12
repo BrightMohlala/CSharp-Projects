@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 8\\Solutions\\CT8Q2_Strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71807F-111B-471C-B60B-8EE469EAD560}|CT8Q2_Strategy.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 8\\solutions\\ct8q2_strategy\\istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B71807F-111B-471C-B60B-8EE469EAD560}|CT8Q2_Strategy.csproj|solutionrelative:istrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71807F-111B-471C-B60B-8EE469EAD560}|CT8Q2_Strategy.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 8\\solutions\\ct8q2_strategy\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B71807F-111B-471C-B60B-8EE469EAD560}|CT8Q2_Strategy.csproj|solutionrelative:icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71807F-111B-471C-B60B-8EE469EAD560}|CT8Q2_Strategy.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 8\\solutions\\ct8q2_strategy\\ctimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B71807F-111B-471C-B60B-8EE469EAD560}|CT8Q2_Strategy.csproj|solutionrelative:ctimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71807F-111B-471C-B60B-8EE469EAD560}|CT8Q2_Strategy.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 8\\solutions\\ct8q2_strategy\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B71807F-111B-471C-B60B-8EE469EAD560}|CT8Q2_Strategy.csproj|solutionrelative:context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71807F-111B-471C-B60B-8EE469EAD560}|CT8Q2_Strategy.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 8\\solutions\\ct8q2_strategy\\concretestrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B71807F-111B-471C-B60B-8EE469EAD560}|CT8Q2_Strategy.csproj|solutionrelative:concretestrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B71807F-111B-471C-B60B-8EE469EAD560}|CT8Q2_Strategy.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 8\\solutions\\ct8q2_strategy\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B71807F-111B-471C-B60B-8EE469EAD560}|CT8Q2_Strategy.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 8\\Solutions\\CT8Q2_Strategy\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 8\\Solutions\\CT8Q2_Strategy\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T03:39:47.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 8\\Solutions\\CT8Q2_Strategy\\Context.cs",
+              "RelativeDocumentMoniker": "Context.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 8\\Solutions\\CT8Q2_Strategy\\Context.cs",
+              "RelativeToolTip": "Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:07:51.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CTimer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 8\\Solutions\\CT8Q2_Strategy\\CTimer.cs",
+              "RelativeDocumentMoniker": "CTimer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 8\\Solutions\\CT8Q2_Strategy\\CTimer.cs",
+              "RelativeToolTip": "CTimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:16:17.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 8\\Solutions\\CT8Q2_Strategy\\IContext.cs",
+              "RelativeDocumentMoniker": "IContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 8\\Solutions\\CT8Q2_Strategy\\IContext.cs",
+              "RelativeToolTip": "IContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:30:34.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConcreteStrategies.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 8\\Solutions\\CT8Q2_Strategy\\ConcreteStrategies.cs",
+              "RelativeDocumentMoniker": "ConcreteStrategies.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 8\\Solutions\\CT8Q2_Strategy\\ConcreteStrategies.cs",
+              "RelativeToolTip": "ConcreteStrategies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T04:03:26.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 8\\Solutions\\CT8Q2_Strategy\\IStrategy.cs",
+              "RelativeDocumentMoniker": "IStrategy.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 8\\Solutions\\CT8Q2_Strategy\\IStrategy.cs",
+              "RelativeToolTip": "IStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T03:56:34.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 644,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

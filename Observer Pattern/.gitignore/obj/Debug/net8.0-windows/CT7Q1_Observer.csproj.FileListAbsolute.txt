@@ -1,0 +1,34 @@
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.csproj.GenerateResource.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\bin\Debug\net8.0-windows\CT7Q1_Observer.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\bin\Debug\net8.0-windows\CT7Q1_Observer.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\bin\Debug\net8.0-windows\CT7Q1_Observer.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\bin\Debug\net8.0-windows\CT7Q1_Observer.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\bin\Debug\net8.0-windows\CT7Q1_Observer.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\refint\CT7Q1_Observer.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\ref\CT7Q1_Observer.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.CfrmController.resources
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 7 (Null, Observer, State)\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.CfrmStation.resources
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\bin\Debug\net8.0-windows\CT7Q1_Observer.exe
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\bin\Debug\net8.0-windows\CT7Q1_Observer.deps.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\bin\Debug\net8.0-windows\CT7Q1_Observer.runtimeconfig.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\bin\Debug\net8.0-windows\CT7Q1_Observer.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\bin\Debug\net8.0-windows\CT7Q1_Observer.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.CfrmController.resources
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.CfrmStation.resources
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.csproj.GenerateResource.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.AssemblyInfo.cs
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\refint\CT7Q1_Observer.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\CT7Q1_Observer.genruntimeconfig.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 7\Solutions\Solutions\CT7Q1_Observer\obj\Debug\net8.0-windows\ref\CT7Q1_Observer.dll

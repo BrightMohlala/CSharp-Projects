@@ -1,0 +1,21 @@
+D:\Second semester\CSIS1624\TestPractice\AllInOneProgram\bin\Debug\AllInOneProgram.exe.config
+D:\Second semester\CSIS1624\TestPractice\AllInOneProgram\bin\Debug\AllInOneProgram.exe
+D:\Second semester\CSIS1624\TestPractice\AllInOneProgram\bin\Debug\AllInOneProgram.pdb
+D:\Second semester\CSIS1624\TestPractice\AllInOneProgram\obj\Debug\AllInOneProgram.csproj.AssemblyReference.cache
+D:\Second semester\CSIS1624\TestPractice\AllInOneProgram\obj\Debug\AllInOneProgram.csproj.CoreCompileInputs.cache
+D:\Second semester\CSIS1624\TestPractice\AllInOneProgram\obj\Debug\AllInOneProgram.exe
+D:\Second semester\CSIS1624\TestPractice\AllInOneProgram\obj\Debug\AllInOneProgram.pdb
+C:\Users\AGNES\Downloads\AllInOneProgram\AllInOneProgram\bin\Debug\AllInOneProgram.exe.config
+C:\Users\AGNES\Downloads\AllInOneProgram\AllInOneProgram\bin\Debug\AllInOneProgram.exe
+C:\Users\AGNES\Downloads\AllInOneProgram\AllInOneProgram\bin\Debug\AllInOneProgram.pdb
+C:\Users\AGNES\Downloads\AllInOneProgram\AllInOneProgram\obj\Debug\AllInOneProgram.csproj.AssemblyReference.cache
+C:\Users\AGNES\Downloads\AllInOneProgram\AllInOneProgram\obj\Debug\AllInOneProgram.csproj.CoreCompileInputs.cache
+C:\Users\AGNES\Downloads\AllInOneProgram\AllInOneProgram\obj\Debug\AllInOneProgram.exe
+C:\Users\AGNES\Downloads\AllInOneProgram\AllInOneProgram\obj\Debug\AllInOneProgram.pdb
+E:\CSIS1624\Programs\AllInOneProgram\AllInOneProgram\bin\Debug\AllInOneProgram.exe.config
+E:\CSIS1624\Programs\AllInOneProgram\AllInOneProgram\bin\Debug\AllInOneProgram.exe
+E:\CSIS1624\Programs\AllInOneProgram\AllInOneProgram\bin\Debug\AllInOneProgram.pdb
+E:\CSIS1624\Programs\AllInOneProgram\AllInOneProgram\obj\Debug\AllInOneProgram.csproj.AssemblyReference.cache
+E:\CSIS1624\Programs\AllInOneProgram\AllInOneProgram\obj\Debug\AllInOneProgram.csproj.CoreCompileInputs.cache
+E:\CSIS1624\Programs\AllInOneProgram\AllInOneProgram\obj\Debug\AllInOneProgram.exe
+E:\CSIS1624\Programs\AllInOneProgram\AllInOneProgram\obj\Debug\AllInOneProgram.pdb

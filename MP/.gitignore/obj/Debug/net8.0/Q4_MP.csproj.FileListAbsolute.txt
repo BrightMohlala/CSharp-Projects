@@ -1,0 +1,42 @@
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\obj\Debug\net8.0\refint\Q4_MP.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q4_MP\obj\Debug\net8.0\ref\Q4_MP.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\obj\Debug\net8.0\refint\Q4_MP.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4 (Comp, Dec, Fac, FW, Pxy)\Solutions\Q4_MP\obj\Debug\net8.0\ref\Q4_MP.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.exe
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.deps.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.runtimeconfig.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\bin\Debug\net8.0\Q4_MP.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.AssemblyInfo.cs
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\obj\Debug\net8.0\refint\Q4_MP.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\obj\Debug\net8.0\Q4_MP.genruntimeconfig.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q4_MP\obj\Debug\net8.0\ref\Q4_MP.dll

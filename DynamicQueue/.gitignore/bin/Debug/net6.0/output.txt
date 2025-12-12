@@ -1,0 +1,21 @@
+Q: Dineo (Good), Joele (Inept), Mpho (Decent)
+Q: Ben (Decent), Dineo (Good), Joele (Inept), Mpho (Decent), Endy (Inept)
+Q: Abel (Decent), Ben (Decent), Dineo (Good), Joele (Inept), Mpho (Decent), Impy (OK), Endy (Inept)
+Q: Abel (Decent), Ben (Decent), Dineo (Good), Joele (Inept), Impy (OK), Endy (Inept)
+
+Start sliding
+
+Abel (Decent) slided down.
+Q: Ben (Decent), Dineo (Good), Joele (Inept), Impy (OK), Endy (Inept)
+
+Ben (Decent) slided down.
+Q: Dineo (Good), Joele (Inept), Impy (OK), Endy (Inept)
+
+Dineo (Good) slided down.
+Q: Joele (Inept), Impy (OK), Endy (Inept)
+
+Dineo (Good) joined the queue again.
+Q: Joele (Inept), Impy (OK), Endy (Inept), Dineo (Good)
+
+Joele (Inept) slided down.
+Q: Impy (OK), Endy (Inept), Dineo (Good)

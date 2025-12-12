@@ -1,0 +1,28 @@
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\bin\Debug\net8.0\Q2_Folders.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\bin\Debug\net8.0\Q2_Folders.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\bin\Debug\net8.0\Q2_Folders.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\bin\Debug\net8.0\Q2_Folders.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\bin\Debug\net8.0\Q2_Folders.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\obj\Debug\net8.0\refint\Q2_Folders.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 4\Solutions\Q2_Folders\obj\Debug\net8.0\ref\Q2_Folders.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\bin\Debug\net8.0\Q2_Folders.exe
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\bin\Debug\net8.0\Q2_Folders.deps.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\bin\Debug\net8.0\Q2_Folders.runtimeconfig.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\bin\Debug\net8.0\Q2_Folders.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\bin\Debug\net8.0\Q2_Folders.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.AssemblyInfo.cs
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\obj\Debug\net8.0\refint\Q2_Folders.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\obj\Debug\net8.0\Q2_Folders.genruntimeconfig.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 4\Solutions\Q2_Folders\obj\Debug\net8.0\ref\Q2_Folders.dll

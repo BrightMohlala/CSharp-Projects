@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 6\\Solutions\\Solutions\\CT6Q4_Memento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3B326B-5327-43FA-9538-51D382592F3B}|CT6Q4_Memento.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 6\\solutions\\solutions\\ct6q4_memento\\caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3B326B-5327-43FA-9538-51D382592F3B}|CT6Q4_Memento.csproj|solutionrelative:caretaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3B326B-5327-43FA-9538-51D382592F3B}|CT6Q4_Memento.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 6\\solutions\\solutions\\ct6q4_memento\\originator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3B326B-5327-43FA-9538-51D382592F3B}|CT6Q4_Memento.csproj|solutionrelative:originator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3B326B-5327-43FA-9538-51D382592F3B}|CT6Q4_Memento.csproj|c:\\users\\user\\documents\\csis2664 (2025)\\class tests\\class test 6\\solutions\\solutions\\ct6q4_memento\\q4_cfrmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3B326B-5327-43FA-9538-51D382592F3B}|CT6Q4_Memento.csproj|solutionrelative:q4_cfrmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3B326B-5327-43FA-9538-51D382592F3B}|CT6Q4_Memento.csproj|C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 6\\Solutions\\Solutions\\CT6Q4_Memento\\q4_cfrmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB3B326B-5327-43FA-9538-51D382592F3B}|CT6Q4_Memento.csproj|solutionrelative:q4_cfrmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Caretaker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 6\\Solutions\\Solutions\\CT6Q4_Memento\\Caretaker.cs",
+              "RelativeDocumentMoniker": "Caretaker.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 6\\Solutions\\Solutions\\CT6Q4_Memento\\Caretaker.cs",
+              "RelativeToolTip": "Caretaker.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwFAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:35:50.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Originator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 6\\Solutions\\Solutions\\CT6Q4_Memento\\Originator.cs",
+              "RelativeDocumentMoniker": "Originator.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 6\\Solutions\\Solutions\\CT6Q4_Memento\\Originator.cs",
+              "RelativeToolTip": "Originator.cs",
+              "ViewState": "AgIAABAAAACgmZmZmZkjwCQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T18:24:10.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q4_CfrmClient.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 6\\Solutions\\Solutions\\CT6Q4_Memento\\Q4_CfrmClient.cs",
+              "RelativeDocumentMoniker": "Q4_CfrmClient.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 6\\Solutions\\Solutions\\CT6Q4_Memento\\Q4_CfrmClient.cs",
+              "RelativeToolTip": "Q4_CfrmClient.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:58:55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Q4_CfrmClient.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\CSIS2664 (2025)\\Class Tests\\Class Test 6\\Solutions\\Solutions\\CT6Q4_Memento\\Q4_CfrmClient.cs",
+              "RelativeDocumentMoniker": "Q4_CfrmClient.cs",
+              "ToolTip": "E:\\CSIS2664\\Class test 6\\extracted\\Blignaut (2079034130)\\Solutions\\CT6Q4_Memento\\Q4_CfrmClient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T17:58:52.064Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 644,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

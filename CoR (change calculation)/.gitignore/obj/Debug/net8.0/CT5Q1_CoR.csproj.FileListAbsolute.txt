@@ -1,0 +1,42 @@
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\bin\Debug\net8.0\CT5Q1_CoR.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\bin\Debug\net8.0\CT5Q1_CoR.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\bin\Debug\net8.0\CT5Q1_CoR.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\bin\Debug\net8.0\CT5Q1_CoR.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\bin\Debug\net8.0\CT5Q1_CoR.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\obj\Debug\net8.0\CT5Q1_CoR.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\obj\Debug\net8.0\CT5Q1_CoR.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\obj\Debug\net8.0\CT5Q1_CoR.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\obj\Debug\net8.0\CT5Q1_CoR.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\obj\Debug\net8.0\CT5Q1_CoR.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\obj\Debug\net8.0\refint\CT5Q1_CoR.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\obj\Debug\net8.0\CT5Q1_CoR.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\obj\Debug\net8.0\CT5Q1_CoR.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q1_CoR\obj\Debug\net8.0\ref\CT5Q1_CoR.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\bin\Debug\net8.0\CT5Q1_CoR.exe
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\bin\Debug\net8.0\CT5Q1_CoR.deps.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\bin\Debug\net8.0\CT5Q1_CoR.runtimeconfig.json
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\bin\Debug\net8.0\CT5Q1_CoR.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\bin\Debug\net8.0\CT5Q1_CoR.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.AssemblyInfoInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.AssemblyInfo.cs
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.csproj.CoreCompileInputs.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\obj\Debug\net8.0\refint\CT5Q1_CoR.dll
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.pdb
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.genruntimeconfig.cache
+D:\OneDrive\CSIS\CSIS2664 (Design)\2025\Class test 5 (CoR, Command)\Solutions\CT5Q2_CoR\obj\Debug\net8.0\ref\CT5Q1_CoR.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\bin\Debug\net8.0\CT5Q1_CoR.exe
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\bin\Debug\net8.0\CT5Q1_CoR.deps.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\bin\Debug\net8.0\CT5Q1_CoR.runtimeconfig.json
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\bin\Debug\net8.0\CT5Q1_CoR.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\bin\Debug\net8.0\CT5Q1_CoR.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.AssemblyInfo.cs
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\obj\Debug\net8.0\refint\CT5Q1_CoR.dll
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.pdb
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\obj\Debug\net8.0\CT5Q1_CoR.genruntimeconfig.cache
+C:\Users\User\Documents\CSIS2664 (2025)\Class Tests\Class Test 5\Solutions\CT5Q2_CoR\obj\Debug\net8.0\ref\CT5Q1_CoR.dll

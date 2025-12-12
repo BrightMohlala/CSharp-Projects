@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\bin\Debug\net6.0\CT4.exe
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\bin\Debug\net6.0\CT4.deps.json
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\bin\Debug\net6.0\CT4.runtimeconfig.json
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\bin\Debug\net6.0\CT4.dll
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\bin\Debug\net6.0\CT4.pdb
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\CT4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\CT4.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\CT4.AssemblyInfo.cs
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\CT4.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\CT4.dll
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\refint\CT4.dll
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\CT4.pdb
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\CT4.genruntimeconfig.cache
+C:\Users\User\Documents\CSIS2614 (2025)\Class Tests 2025\Class Test 4\Solution\obj\Debug\net6.0\ref\CT4.dll

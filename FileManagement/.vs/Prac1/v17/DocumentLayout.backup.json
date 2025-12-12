@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CSharp-Projects\\FileManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35B5B6-8176-45FA-A4B0-351DD5AE1C4B}|Prac1.csproj|c:\\users\\user\\desktop\\csharp-projects\\filemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35B5B6-8176-45FA-A4B0-351DD5AE1C4B}|Prac1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35B5B6-8176-45FA-A4B0-351DD5AE1C4B}|Prac1.csproj|c:\\users\\user\\desktop\\csharp-projects\\filemanagement\\filemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35B5B6-8176-45FA-A4B0-351DD5AE1C4B}|Prac1.csproj|solutionrelative:filemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35B5B6-8176-45FA-A4B0-351DD5AE1C4B}|Prac1.csproj|c:\\users\\user\\desktop\\csharp-projects\\filemanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35B5B6-8176-45FA-A4B0-351DD5AE1C4B}|Prac1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C35B5B6-8176-45FA-A4B0-351DD5AE1C4B}|Prac1.csproj|c:\\users\\user\\desktop\\csharp-projects\\filemanagement\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C35B5B6-8176-45FA-A4B0-351DD5AE1C4B}|Prac1.csproj|solutionrelative:author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSharp-Projects\\FileManagement\\Author.cs",
+              "RelativeDocumentMoniker": "Author.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSharp-Projects\\FileManagement\\Author.cs",
+              "RelativeToolTip": "Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T04:18:22.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileManagement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSharp-Projects\\FileManagement\\FileManagement.cs",
+              "RelativeDocumentMoniker": "FileManagement.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSharp-Projects\\FileManagement\\FileManagement.cs",
+              "RelativeToolTip": "FileManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T03:25:12.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSharp-Projects\\FileManagement\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSharp-Projects\\FileManagement\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T03:21:06.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CSharp-Projects\\FileManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CSharp-Projects\\FileManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T03:15:16.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 644,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
